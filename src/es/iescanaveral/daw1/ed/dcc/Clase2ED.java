@@ -7,7 +7,7 @@ public class Clase2ED {
 		String textoSaludo=
 				"Hola soy "
 				+ cadena
-				+ " imprimiendo un mensaje editado con eclipse";
+				+ " imprimiendo un mensaje que esta editado con eclipse";
 		
 		System.out.println(textoSaludo);
 		
